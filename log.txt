@@ -1,0 +1,288 @@
+﻿
+Movie Search Log-----------------------
+
+Command used: troy
+
+Title: Troy
+
+Release Year: 2004
+
+IMDB Rating: 7.2
+
+Rotten Tomatoes URL: undefined
+
+Country: USA, Malta, UK
+
+Language: English
+
+Plot: An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.
+
+Actors: Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis
+
+---------------------------------------
+
+Movie Search Log-----------------------
+
+Command used: C:\Users\markf\Documents\Github-proj\bootcamp-hw\Liri-Bot\liri.js+movie-this+troy
+
+Title: Troy
+
+Release Year: 2004
+
+IMDB Rating: 7.2
+
+Rotten Tomatoes URL: undefined
+
+Country: USA, Malta, UK
+
+Language: English
+
+Plot: An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.
+
+Actors: Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis
+
+---------------------------------------
+
+Movie Search Log-----------------------
+
+Command used: C:\Program Files\nodejs\node.exeC:\Users\markf\Documents\Github-proj\bootcamp-hw\Liri-Bot\liri.js
+
+Title: Troy
+
+Release Year: 2004
+
+IMDB Rating: 7.2
+
+Rotten Tomatoes URL: undefined
+
+Country: USA, Malta, UK
+
+Language: English
+
+Plot: An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.
+
+Actors: Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis
+
+---------------------------------------
+
+Movie Search Log-----------------------
+
+Command used: movie-this
+
+Title: Troy
+
+Release Year: 2004
+
+IMDB Rating: 7.2
+
+Rotten Tomatoes URL: undefined
+
+Country: USA, Malta, UK
+
+Language: English
+
+Plot: An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.
+
+Actors: Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis
+
+---------------------------------------
+
+Movie Search Log-----------------------
+
+Command used: C:\Users\markf\Documents\Github-proj\bootcamp-hw\Liri-Bot\liri.js
+
+Title: Troy
+
+Release Year: 2004
+
+IMDB Rating: 7.2
+
+Rotten Tomatoes URL: undefined
+
+Country: USA, Malta, UK
+
+Language: English
+
+Plot: An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.
+
+Actors: Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis
+
+---------------------------------------
+
+Movie Search Log-----------------------
+
+Command used: movie-this troy
+
+Title: Troy
+
+Release Year: 2004
+
+IMDB Rating: 7.2
+
+Rotten Tomatoes URL: undefined
+
+Country: USA, Malta, UK
+
+Language: English
+
+Plot: An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.
+
+Actors: Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis
+
+---------------------------------------
+
+Movie Search Log-----------------------
+
+Command used: node liri.js movie-this troy
+
+Title: Troy
+
+Release Year: 2004
+
+IMDB Rating: 7.2
+
+Rotten Tomatoes URL: undefined
+
+Country: USA, Malta, UK
+
+Language: English
+
+Plot: An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.
+
+Actors: Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis
+
+---------------------------------------
+
+Song Search Log-------------------------------------------------
+
+Command used: node liri.js spotify-this-song nothing else matters
+
+Artist(s): Metallica
+
+Song Name: Nothing Else Matters
+
+Preview Link: https://p.scdn.co/mp3-preview/a2a9c13416fc981d035e75f16ec63b0d8e6486ba?cid=08fc4aa146bd470c8d50c9fa33941d70
+
+Album: Metallica
+
+----------------------------------------------------------------
+
+Concert Search Log-------------------------------------------------
+
+Command used: node liri.js do-what-it-says concert-this
+
+Venue Name: The Forum
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 01/16/2019, 7:00 PM
+
+----------------------------------------------------------------
+
+Concert Search Log-------------------------------------------------
+
+Command used: node liri.js do-what-it-says concert-this
+
+Venue Name: BOK Center
+
+Venue Location: Tulsa, OK, United States
+
+Venue Time: 01/16/2019, 7:00 PM
+
+----------------------------------------------------------------
+
+Concert Search Log-------------------------------------------------
+
+Command used: node liri.js do-what-it-says concert-this
+
+Venue Name: Verizon Arena
+
+Venue Location: North Little Rock, AR, United States
+
+Venue Time: 01/16/2019, 7:00 PM
+
+----------------------------------------------------------------
+
+Concert Search Log-------------------------------------------------
+
+Command used: node liri.js do-what-it-says concert-this
+
+Venue Name: Legacy Arena at The BJCC
+
+Venue Location: Birmingham, AL, United States
+
+Venue Time: 01/16/2019, 7:00 PM
+
+----------------------------------------------------------------
+
+Concert Search Log-------------------------------------------------
+
+Command used: node liri.js do-what-it-says concert-this
+
+Venue Name: Bridgestone Arena
+
+Venue Location: Nashville, TN, United States
+
+Venue Time: 01/16/2019, 7:00 PM
+
+----------------------------------------------------------------
+
+Concert Search Log-------------------------------------------------
+
+Command used: node liri.js do-what-it-says concert-this
+
+Venue Name: The Forum
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 01/16/2019, 7:00 PM
+
+----------------------------------------------------------------
+
+Concert Search Log-------------------------------------------------
+
+Command used: node liri.js do-what-it-says concert-this
+
+Venue Name: BOK Center
+
+Venue Location: Tulsa, OK, United States
+
+Venue Time: 01/16/2019, 7:00 PM
+
+----------------------------------------------------------------
+
+Concert Search Log-------------------------------------------------
+
+Command used: node liri.js do-what-it-says concert-this
+
+Venue Name: Verizon Arena
+
+Venue Location: North Little Rock, AR, United States
+
+Venue Time: 01/16/2019, 7:00 PM
+
+----------------------------------------------------------------
+
+Concert Search Log-------------------------------------------------
+
+Command used: node liri.js do-what-it-says concert-this
+
+Venue Name: Legacy Arena at The BJCC
+
+Venue Location: Birmingham, AL, United States
+
+Venue Time: 01/16/2019, 7:00 PM
+
+----------------------------------------------------------------
+
+Concert Search Log-------------------------------------------------
+
+Command used: node liri.js do-what-it-says concert-this
+
+Venue Name: Bridgestone Arena
+
+Venue Location: Nashville, TN, United States
+
+Venue Time: 01/16/2019, 7:00 PM
+
+----------------------------------------------------------------
