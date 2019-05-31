@@ -286,3 +286,77 @@ Venue Location: Nashville, TN, United States
 Venue Time: 01/16/2019, 7:00 PM
 
 ----------------------------------------------------------------
+
+Song Search Log-------------------------------------------------
+
+Command used: node liri.js spotify-this-song
+
+Artist(s): Harry Styles
+
+Song Name: Sign of the Times
+
+Preview Link: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=08fc4aa146bd470c8d50c9fa33941d70
+
+Album: Harry Styles
+
+----------------------------------------------------------------
+
+Concert Search Log-------------------------------------------------
+
+Command used: node liri.js concert-this metallica
+
+Venue Name: The Forum
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 01/16/2019, 7:00 PM
+
+----------------------------------------------------------------
+
+Concert Search Log-------------------------------------------------
+
+Command used: node liri.js concert-this metallica
+
+Venue Name: BOK Center
+
+Venue Location: Tulsa, OK, United States
+
+Venue Time: 01/16/2019, 7:00 PM
+
+----------------------------------------------------------------
+
+Concert Search Log-------------------------------------------------
+
+Command used: node liri.js concert-this metallica
+
+Venue Name: Verizon Arena
+
+Venue Location: North Little Rock, AR, United States
+
+Venue Time: 01/16/2019, 7:00 PM
+
+----------------------------------------------------------------
+
+Concert Search Log-------------------------------------------------
+
+Command used: node liri.js concert-this metallica
+
+Venue Name: Legacy Arena at The BJCC
+
+Venue Location: Birmingham, AL, United States
+
+Venue Time: 01/16/2019, 7:00 PM
+
+----------------------------------------------------------------
+
+Concert Search Log-------------------------------------------------
+
+Command used: node liri.js concert-this metallica
+
+Venue Name: Bridgestone Arena
+
+Venue Location: Nashville, TN, United States
+
+Venue Time: 01/16/2019, 7:00 PM
+
+----------------------------------------------------------------
